@@ -1,0 +1,13 @@
+A hires B
+B hires C
+C hires D
+D hires E
+B hires F
+C hires G
+D hires H
+E hires I
+F hires J
+G hires k
+Print
+Fire A
+Quit

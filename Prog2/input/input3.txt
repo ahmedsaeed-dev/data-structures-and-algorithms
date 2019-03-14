@@ -1,0 +1,11 @@
+Trump hires A
+Trump hires B
+A hires C
+C hires D
+D hires E
+E hires F
+E hires G
+Print
+Fire A
+Print
+Quit

@@ -1,0 +1,24 @@
+A hires BA
+A hires BB
+A hires BC
+BA hires BAA
+BA hires BAB
+BA hires BAC
+BAA hires BAAA
+BAA hires BAAB
+BAA hires BAAC
+BAB hires BABA
+BAB hires BABB
+BAB hires BABC
+BAB hires BABC
+BABA hires BABAA
+Print
+Fire BB
+Print
+Fire BA
+Print
+Fire BAB
+Print
+Quit
+
+

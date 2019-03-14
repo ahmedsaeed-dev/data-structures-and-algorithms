@@ -1,0 +1,29 @@
+A hires B
+A hires C
+A hires D
+B hires E
+B hires F
+C hires G
+C hires H
+D hires I
+D hires J
+E hires K
+E hires L
+F hires M
+F hires N
+G hires O
+G hires P
+H hires Q
+H hires R
+H hires S
+Fire S
+Print
+Fire H
+Print
+Fire C
+Print
+Fire A
+Print
+Quit
+
+

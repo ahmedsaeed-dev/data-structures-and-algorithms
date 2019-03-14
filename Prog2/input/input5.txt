@@ -1,0 +1,6 @@
+A hires B
+Fire A
+Print
+Fire B
+Print
+Quit
